@@ -1,0 +1,8 @@
+{
+  "name": "yarn-pnp-test",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "whatever": "file:./deps/whatever"
+  }
+}
